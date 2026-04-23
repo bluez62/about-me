@@ -1,3 +1,9 @@
+#contain{
+    position: relative;
+    height: 400px;  
+    width: 100%;
+}
+
 #abme{
     position: absolute;
     top: 50%;
