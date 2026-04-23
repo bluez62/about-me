@@ -1,7 +1,4 @@
 body {
-  color: #ffffff;
-  font-family: 'Helvetica', sans-serif;
-  line-height: 1.6;
   background-color: #00000000;
 }
 
@@ -10,4 +7,9 @@ h1 {
   top: 30%;
   left: 50%;
   transform: translate(-50%, -50%);
+}
+p, h1{
+    color: #ffffff;
+    font-family: 'Helvetica', sans-serif;
+    line-length: 1.6;
 }
