@@ -1,12 +1,6 @@
-#contain{
-    position: relative;
-    height: 400px;  
-    width: 100%;
-}
-
-#abme{
+h1{
     position: absolute;
-    top: 50%;
+    top: 70%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
