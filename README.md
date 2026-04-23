@@ -2,4 +2,4 @@
 
 A page for stuff about me!
 
-bluez62.github.io/about-me
+https://bluez62.github.io/about-me/
